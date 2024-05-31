@@ -7,6 +7,7 @@ Bu proje, Serbest Elektron Lazer (SEL) teknolojisinin uzayda haberleşme sisteml
 - [Proje Hakkında](#proje-hakkında)
 - [Kullanım Alanları](#kullanım-alanları)
 - [Bileşenler](#bileşenler)
+- [Kurulum](#kurulum)
 - [Katkıda Bulunma](#katkıda-bulunma)
 
 ## Proje Hakkında
@@ -26,6 +27,9 @@ Serbest Elektron Lazer (SEL) teknolojisi, yüksek enerji seviyelerinde çalışa
 1. Radyasyona Karşı Algoritma: Çevredeki oluşan radyasyona karşı alınacak önlem algoritması.
 2. Diğer Çevre Koşullarına Karşı Algoritma: Çevre koşullarına karşı bir optimizasyon algoritması sağlar.
 3. Arayüz: Çevre şartlarını ve dalga boyunu görselleştiren bir arayüz.
+
+## Kurulum
+install.bat dosyası çalıştırılır.
 
 ## Katkıda Bulunma
 
