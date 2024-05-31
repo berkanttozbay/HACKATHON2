@@ -3,7 +3,6 @@
 Bu proje, Serbest Elektron Lazer (SEL) teknolojisinin uzayda haberleşme sistemlerindeki potansiyel uygulamalarını araştırmak ve geliştirmek amacıyla hazırlanmıştır. Bu belge, projenin temel prensiplerini, bileşenlerini ve kurulum talimatlarını içermektedir.
 
 ## İçindekiler
-- [Kütüphaneler] #kütüphaneler
 - [Proje Hakkında](#proje-hakkında)
 - [Kullanım Alanları](#kullanım-alanları)
 - [Bileşenler](#bileşenler)
@@ -28,7 +27,6 @@ Serbest Elektron Lazer (SEL) teknolojisi, yüksek enerji seviyelerinde çalışa
 2. Diğer Çevre Koşullarına Karşı Algoritma: Çevre koşullarına karşı bir optimizasyon algoritması sağlar.
 3. Arayüz: Çevre şartlarını ve dalga boyunu görselleştiren bir arayüz.
    
-## kütüphaneler:
 
 ## Kurulum
 install.bat dosyası çalıştırılır.
